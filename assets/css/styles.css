@@ -93,7 +93,7 @@ section {
 
 .hero-form h3 {
   margin: 0;
-  font-size: large;
+  font-size: 24px;
 }
 
 .hero-form p {
@@ -121,3 +121,5 @@ section {
   padding: 10px 20px;
   font-size: 16px;
 }
+
+/* End Hero styles */
